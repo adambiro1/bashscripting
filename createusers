@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #######################################################
 #Create Users from file and add them to appropriate groups
 #
